@@ -9,12 +9,10 @@
 
     include 'inc/navbar.php';
 
-    // include 'inc/jumbotron.php';
 
-    // include 'inc/cards.php';
 
-    // include 'inc/footer.php';
 
+    include 'inc/script.php';
 ?>
     
 </body>
